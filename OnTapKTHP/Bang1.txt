@@ -1,0 +1,11 @@
+PHIẾU NHẬP HÀNG
+Mã phiếu: PH001
+Ngày lập: 1/1/2007
+Mã NCC: NCC01
+Tên NCC: LG-Electronic
+Địa chỉ: Khu công nghiệp Như Quỳnh A
+Tên hàng	 Đơn giá	 Số lượng	 Thành tiền
+Tivi		 30		 2		60
+Quạt		 1.2		 3		3.6
+Mobi		 5		 10		50
+Cộng thành tiền:  113.6
